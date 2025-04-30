@@ -43,7 +43,7 @@ q[3] <= q[2];
 end 
 endmodule
 ```
-Developed by:JANANINS
+Developed by:JANANI S
 RegisterNumber:212224040127
 
 
